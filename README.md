@@ -2,14 +2,12 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ismail%20Starallah&fontSize=52&fontColor=00d4ff&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descColor=a78bfa&descAlignY=58&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:ddd6fe,100:ede9fe&height=220&section=header&text=Ismail%20Starallah&fontSize=52&fontColor=1e3a8a&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descColor=6d28d9&descAlignY=58&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ismail%20Starallah&fontSize=52&fontColor=00d4ff&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descColor=a78bfa&descAlignY=58&animation=fadeIn" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:ddd6fe,100:ede9fe&height=220&section=header&text=Ismail%20Starallah&fontSize=52&fontColor=1e3a8a&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descColor=6d28d9&descAlignY=58&animation=fadeIn" width="100%" alt="Header" />
 </picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Ingenieur+Full-Stack+%7C+Spring+Boot+-+React+-+Node.js;Curieux+de+l%27IA%2C+des+microservices+et+de+l%27impact+reel;Casablanca%2C+Maroc+--+Open+to+opportunities" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1e3a8a&center=true&vCenter=true&width=650&lines=Ingenieur+Full-Stack+%7C+Spring+Boot+-+React+-+Node.js;Curieux+de+l%27IA%2C+des+microservices+et+de+l%27impact+reel;Casablanca%2C+Maroc+--+Open+to+opportunities" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Ingenieur+Full-Stack+%7C+Spring+Boot+-+React+-+Node.js;Curieux+de+l%27IA%2C+des+microservices+et+de+l%27impact+reel;Casablanca%2C+Maroc+--+Open+to+opportunities" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1e3a8a&center=true&vCenter=true&width=650&lines=Ingenieur+Full-Stack+%7C+Spring+Boot+-+React+-+Node.js;Curieux+de+l%27IA%2C+des+microservices+et+de+l%27impact+reel;Casablanca%2C+Maroc+--+Open+to+opportunities" alt="Typing SVG" />
 </picture>
 
 <br/>
@@ -34,7 +32,7 @@ Aujourd'hui, je conçois des applications Full-Stack, j'explore l'IA & le Machin
 ```text
 🎓  EMSI Casablanca — Cycle Ingénieur, Informatique & Réseaux (2023 – Présent)
 💼  Stagiaire en développement logiciel et data science (2024 & 2025)
-🤖  Curieux d'IA, de systèmes distribués et d'automatisation intelligente
+🤖  Curieux d'IA, de systèmes distribués et de l'automatisation intelligente
 📍  Casablanca, Maroc — Disponible pour stages et opportunités
 ```
 

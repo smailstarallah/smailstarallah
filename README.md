@@ -1,17 +1,16 @@
 <div align="center">
 
-<!-- DARK MODE HEADER -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ismail%20Starallah&fontSize=52&fontColor=00d4ff&fontAlignY=40&desc=Full-Stack%20Engineer%20·%20AI%20Enthusiast%20·%20Problem%20Solver&descColor=a78bfa&descAlignY=58&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:ddd6fe,100:ede9fe&height=220&section=header&text=Ismail%20Starallah&fontSize=52&fontColor=1e3a8a&fontAlignY=40&desc=Full-Stack%20Engineer%20·%20AI%20Enthusiast%20·%20Problem%20Solver&descColor=6d28d9&descAlignY=58&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ismail%20Starallah&fontSize=52&fontColor=00d4ff&fontAlignY=40&desc=Full-Stack%20Engineer%20·%20AI%20Enthusiast%20·%20Problem%20Solver&descColor=a78bfa&descAlignY=58&animation=fadeIn" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ismail%20Starallah&fontSize=52&fontColor=00d4ff&fontAlignY=40&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20Problem%20Solver&descColor=a78bfa&descAlignY=58&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:ddd6fe,100:ede9fe&height=220&section=header&text=Ismail%20Starallah&fontSize=52&fontColor=1e3a8a&fontAlignY=40&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20Problem%20Solver&descColor=6d28d9&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ismail%20Starallah&fontSize=52&fontColor=00d4ff&fontAlignY=40&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20Problem%20Solver&descColor=a78bfa&descAlignY=58&animation=fadeIn" width="100%" alt="Header" />
 </picture>
 
-<!-- DARK MODE TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Ingénieur+Full-Stack+%7C+Spring+Boot+·+React+·+Node.js;Curieux+de+l\'IA%2C+des+microservices+et+de+l\'impact+réel;Casablanca%2C+Maroc+🇲🇦+—+Open+to+opportunities#gh-dark-mode-only)](https://git.io/typing-svg)
-
-<!-- LIGHT MODE TYPING SVG -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1e3a8a&center=true&vCenter=true&width=650&lines=Ingénieur+Full-Stack+%7C+Spring+Boot+·+React+·+Node.js;Curieux+de+l\'IA%2C+des+microservices+et+de+l\'impact+réel;Casablanca%2C+Maroc+🇲🇦+—+Open+to+opportunities#gh-light-mode-only)](https://git.io/typing-svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Ing%C3%A9nieur+Full-Stack+%7C+Spring+Boot+%C2%B7+React+%C2%B7+Node.js;Curieux+de+l%27IA%2C+des+microservices+et+de+l%27impact+r%C3%A9el;Casablanca%2C+Maroc+%F0%9F%87%B2%F0%9F%87%A6+%E2%80%94+Open+to+opportunities" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1e3a8a&center=true&vCenter=true&width=650&lines=Ing%C3%A9nieur+Full-Stack+%7C+Spring+Boot+%C2%B7+React+%C2%B7+Node.js;Curieux+de+l%27IA%2C+des+microservices+et+de+l%27impact+r%C3%A9el;Casablanca%2C+Maroc+%F0%9F%87%B2%F0%9F%87%A6+%E2%80%94+Open+to+opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Ing%C3%A9nieur+Full-Stack+%7C+Spring+Boot+%C2%B7+React+%C2%B7+Node.js;Curieux+de+l%27IA%2C+des+microservices+et+de+l%27impact+r%C3%A9el;Casablanca%2C+Maroc+%F0%9F%87%B2%F0%9F%87%A6+%E2%80%94+Open+to+opportunities" alt="Typing SVG" />
+</picture>
 
 <br/>
 
@@ -28,14 +27,14 @@
 
 Je suis **Ismail**, étudiant ingénieur en Informatique & Réseaux à **EMSI Casablanca**, avec une passion sincère pour les systèmes qui fonctionnent *vraiment* — à grande échelle, avec élégance, et avec un impact concret.
 
-Mon parcours est un peu atypique : j\'ai commencé par la physique et l\'électronique avant de basculer vers l\'informatique. Ce détour m\'a appris à aborder les problèmes différemment — avec rigueur, patience, et une vraie curiosité pour ce qui se passe *sous le capot*.
+Mon parcours est un peu atypique : j'ai commencé par la physique et l'électronique avant de basculer vers l'informatique. Ce détour m'a appris à aborder les problèmes différemment — avec rigueur, patience, et une vraie curiosité pour ce qui se passe *sous le capot*.
 
-Aujourd\'hui, je conçois des applications Full-Stack, j\'explore l\'IA & le Machine Learning, et je m\'intéresse de près aux architectures microservices. Ce qui me motive : **transformer la complexité en solutions simples et utiles**.
+Aujourd'hui, je conçois des applications Full-Stack, j'explore l'IA & le Machine Learning, et je m'intéresse de près aux architectures microservices. Ce qui me motive : **transformer la complexité en solutions simples et utiles**.
 
 ```text
 🎓  EMSI Casablanca — Cycle Ingénieur, Informatique & Réseaux (2023 – Présent)
 💼  Stagiaire en développement logiciel et data science (2024 & 2025)
-🤖  Curieux d\'IA, de systèmes distribués et d\'automatisation intelligente
+🤖  Curieux d'IA, de systèmes distribués et d'automatisation intelligente
 📍  Casablanca, Maroc — Disponible pour stages et opportunités
 ```
 
@@ -88,7 +87,7 @@ Aujourd\'hui, je conçois des applications Full-Stack, j\'explore l\'IA & le Mac
 
 <br/>
 
-> Contexte : Les PME marocaines manquent d\'outils RH adaptés à leur réalité. J\'ai conçu une solution modulaire, pensée pour être déployée rapidement et évoluée progressivement.
+> Contexte : Les PME marocaines manquent d'outils RH adaptés à leur réalité. J'ai conçu une solution modulaire, pensée pour être déployée rapidement et évoluée progressivement.
 
 **Ce que ça fait :** Automatisation de la paie, gestion des congés, suivi du temps, et notifications en temps réel via WebSocket. Chaque module est indépendant et communicant.
 
@@ -139,7 +138,7 @@ Aujourd\'hui, je conçois des applications Full-Stack, j\'explore l\'IA & le Mac
 
 <br/>
 
-> Une application pour reprendre le contrôle de sa vie académique : emplois du temps, devoirs, sessions d\'étude et centralisation des notes.
+> Une application pour reprendre le contrôle de sa vie académique : emplois du temps, devoirs, sessions d'étude et centralisation des notes.
 
 `Django` `Python` `Bootstrap` `HTML/CSS`
 
@@ -169,24 +168,24 @@ Aujourd\'hui, je conçois des applications Full-Stack, j\'explore l\'IA & le Mac
 ### 🏢 Digitalia Solutions — Ingénieur Stagiaire en Développement Logiciel
 **Juillet – Septembre 2025**
 
-Conception et développement d\'un mini ERP RH en architecture microservices. Intégration de l\'authentification JWT, des notifications WebSocket en temps réel, et d\'une interface React/TailwindCSS. Collaboration en équipe agile avec revues de code et déploiement Docker.
+Conception et développement d'un mini ERP RH en architecture microservices. Intégration de l'authentification JWT, des notifications WebSocket en temps réel, et d'une interface React/TailwindCSS. Collaboration en équipe agile avec revues de code et déploiement Docker.
 
 ---
 
 ### 🏢 Saphir Systems — Stagiaire en IA & Data Science
 **Juillet – Septembre 2024**
 
-Construction d\'un système de détection de fraude bancaire par Machine Learning (régression logistique, AUC = 0.97). Traitement de données déséquilibrées, exposition du modèle via API REST Django, et visualisation des résultats dans un tableau de bord interactif.
+Construction d'un système de détection de fraude bancaire par Machine Learning (régression logistique, AUC = 0.97). Traitement de données déséquilibrées, exposition du modèle via API REST Django, et visualisation des résultats dans un tableau de bord interactif.
 
 ---
 
 ## 🎓 Formation
 
-**EMSI – École Marocaine des Sciences d\'Ingénieur** *(2023 – Présent)*
+**EMSI – École Marocaine des Sciences d'Ingénieur** *(2023 – Présent)*
 Cycle Ingénieur · Informatique & Réseaux
 *Full-Stack · Systèmes Distribués · IA · Cybersécurité*
 
-**Faculté des Sciences Ben M\'sik – Université Hassan II** *(2019 – 2023)*
+**Faculté des Sciences Ben M'sik – Université Hassan II** *(2019 – 2023)*
 Licence en Sciences de la Matière Physique (option Électronique)
 
 ---
@@ -213,19 +212,23 @@ Licence en Sciences de la Matière Physique (option Électronique)
 
 <div align="center">
 
-<!-- DARK MODE STATS -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smailstarallah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=ffffff&rank_icon=github#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=smailstarallah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=ffffff&rank_icon=github" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=smailstarallah&show_icons=true&theme=default&hide_border=true&title_color=1e3a8a&icon_color=6d28d9&text_color=1a1a2e&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=smailstarallah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=ffffff&rank_icon=github" alt="GitHub Stats" />
+</picture>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smailstarallah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8#gh-dark-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=smailstarallah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=smailstarallah&layout=compact&theme=default&hide_border=true&title_color=1e3a8a&text_color=1a1a2e&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smailstarallah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8" alt="Top Languages" />
+</picture>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=smailstarallah&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=a78bfa&currStreakLabel=00d4ff#gh-dark-mode-only)
-
-<!-- LIGHT MODE STATS -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smailstarallah&show_icons=true&theme=default&hide_border=true&title_color=1e3a8a&icon_color=6d28d9&text_color=1a1a2e&rank_icon=github#gh-light-mode-only)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smailstarallah&layout=compact&theme=default&hide_border=true&title_color=1e3a8a&text_color=1a1a2e&langs_count=8#gh-light-mode-only)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=smailstarallah&theme=default&hide_border=true&background=ffffff&ring=1e3a8a&fire=6d28d9&currStreakLabel=1e3a8a#gh-light-mode-only)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=smailstarallah&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=a78bfa&currStreakLabel=00d4ff" />
+  <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com?user=smailstarallah&theme=default&hide_border=true&background=ffffff&ring=1e3a8a&fire=6d28d9&currStreakLabel=1e3a8a" />
+  <img src="https://streak-stats.demolab.com?user=smailstarallah&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=a78bfa&currStreakLabel=00d4ff" alt="GitHub Streak" />
+</picture>
 
 </div>
 
@@ -235,13 +238,13 @@ Licence en Sciences de la Matière Physique (option Électronique)
 
 <div align="center">
 
-Je suis toujours ouvert à discuter d\'un projet, d\'une opportunité, ou simplement d\'une idée intéressante.
+Je suis toujours ouvert à discuter d'un projet, d'une opportunité, ou simplement d'une idée intéressante.
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-ismailstarallah.dev-00d4ff?style=for-the-badge)](https://ismailstarallah.dev)
 [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Ismail%20Starallah-0077B5?style=for-the-badge)](https://www.linkedin.com/in/ismail-starallah)
-[![GitHub](https://img.shields.io/badge/💻%20GitHub-smailstarallah-404040?style=for-the-badge)](https://github.com/smailstarallah)
+[![GitHub](https://img.shields.io/badge/💻%20GitHub-smailstarallah-181717?style=for-the-badge)](https://github.com/smailstarallah)
 [![Email](https://img.shields.io/badge/📧%20Email-ismailstarallah0@gmail.com-D14836?style=for-the-badge)](mailto:ismailstarallah0@gmail.com)
 
 <br/>
@@ -250,11 +253,10 @@ Je suis toujours ouvert à discuter d\'un projet, d\'une opportunité, ou simple
 
 <br/>
 
-<!-- DARK MODE FOOTER -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=Chaque%20ligne%20de%20code%20est%20une%20intention.&fontSize=16&fontColor=a78bfa&fontAlignY=65" />
   <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:ddd6fe,100:ede9fe&height=120&section=footer&text=Chaque%20ligne%20de%20code%20est%20une%20intention.&fontSize=16&fontColor=6d28d9&fontAlignY=65" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=Chaque%20ligne%20de%20code%20est%20une%20intention.&fontSize=16&fontColor=a78bfa&fontAlignY=65" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=Chaque%20ligne%20de%20code%20est%20une%20intention.&fontSize=16&fontColor=a78bfa&fontAlignY=65" width="100%" alt="Footer" />
 </picture>
 
 </div>

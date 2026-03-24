@@ -1,8 +1,17 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ismail%20Starallah&fontSize=52&fontColor=00d4ff&fontAlignY=40&desc=Full-Stack%20Engineer%20·%20AI%20Enthusiast%20·%20Problem%20Solver&descColor=a78bfa&descAlignY=58&animation=fadeIn" width="100%" />
+<!-- DARK MODE HEADER -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ismail%20Starallah&fontSize=52&fontColor=00d4ff&fontAlignY=40&desc=Full-Stack%20Engineer%20·%20AI%20Enthusiast%20·%20Problem%20Solver&descColor=a78bfa&descAlignY=58&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:ddd6fe,100:ede9fe&height=220&section=header&text=Ismail%20Starallah&fontSize=52&fontColor=1e3a8a&fontAlignY=40&desc=Full-Stack%20Engineer%20·%20AI%20Enthusiast%20·%20Problem%20Solver&descColor=6d28d9&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ismail%20Starallah&fontSize=52&fontColor=00d4ff&fontAlignY=40&desc=Full-Stack%20Engineer%20·%20AI%20Enthusiast%20·%20Problem%20Solver&descColor=a78bfa&descAlignY=58&animation=fadeIn" width="100%" />
+</picture>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Ingénieur+Full-Stack+%7C+Spring+Boot+·+React+·+Node.js;Curieux+de+l'IA%2C+des+microservices+et+de+l'impact+réel;Casablanca%2C+Maroc+🇲🇦+—+Open+to+opportunities)](https://git.io/typing-svg)
+<!-- DARK MODE TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Ingénieur+Full-Stack+%7C+Spring+Boot+·+React+·+Node.js;Curieux+de+l\'IA%2C+des+microservices+et+de+l\'impact+réel;Casablanca%2C+Maroc+🇲🇦+—+Open+to+opportunities#gh-dark-mode-only)](https://git.io/typing-svg)
+
+<!-- LIGHT MODE TYPING SVG -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1e3a8a&center=true&vCenter=true&width=650&lines=Ingénieur+Full-Stack+%7C+Spring+Boot+·+React+·+Node.js;Curieux+de+l\'IA%2C+des+microservices+et+de+l\'impact+réel;Casablanca%2C+Maroc+🇲🇦+—+Open+to+opportunities#gh-light-mode-only)](https://git.io/typing-svg)
 
 <br/>
 
@@ -19,14 +28,14 @@
 
 Je suis **Ismail**, étudiant ingénieur en Informatique & Réseaux à **EMSI Casablanca**, avec une passion sincère pour les systèmes qui fonctionnent *vraiment* — à grande échelle, avec élégance, et avec un impact concret.
 
-Mon parcours est un peu atypique : j'ai commencé par la physique et l'électronique avant de basculer vers l'informatique. Ce détour m'a appris à aborder les problèmes différemment — avec rigueur, patience, et une vraie curiosité pour ce qui se passe *sous le capot*.
+Mon parcours est un peu atypique : j\'ai commencé par la physique et l\'électronique avant de basculer vers l\'informatique. Ce détour m\'a appris à aborder les problèmes différemment — avec rigueur, patience, et une vraie curiosité pour ce qui se passe *sous le capot*.
 
-Aujourd'hui, je conçois des applications Full-Stack, j'explore l'IA & le Machine Learning, et je m'intéresse de près aux architectures microservices. Ce qui me motive : **transformer la complexité en solutions simples et utiles**.
+Aujourd\'hui, je conçois des applications Full-Stack, j\'explore l\'IA & le Machine Learning, et je m\'intéresse de près aux architectures microservices. Ce qui me motive : **transformer la complexité en solutions simples et utiles**.
 
 ```text
 🎓  EMSI Casablanca — Cycle Ingénieur, Informatique & Réseaux (2023 – Présent)
 💼  Stagiaire en développement logiciel et data science (2024 & 2025)
-🤖  Curieux d'IA, de systèmes distribués et d'automatisation intelligente
+🤖  Curieux d\'IA, de systèmes distribués et d\'automatisation intelligente
 📍  Casablanca, Maroc — Disponible pour stages et opportunités
 ```
 
@@ -40,7 +49,7 @@ Aujourd'hui, je conçois des applications Full-Stack, j'explore l'IA & le Machin
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404040?style=for-the-badge&logo=express&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
@@ -50,7 +59,7 @@ Aujourd'hui, je conçois des applications Full-Stack, j'explore l'IA & le Machin
 
 ### Frontend & UI/UX
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-404040?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
@@ -67,8 +76,8 @@ Aujourd'hui, je conçois des applications Full-Stack, j'explore l'IA & le Machin
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-404040?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-404040?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ---
 
@@ -79,7 +88,7 @@ Aujourd'hui, je conçois des applications Full-Stack, j'explore l'IA & le Machin
 
 <br/>
 
-> Contexte : Les PME marocaines manquent d'outils RH adaptés à leur réalité. J'ai conçu une solution modulaire, pensée pour être déployée rapidement et évoluée progressivement.
+> Contexte : Les PME marocaines manquent d\'outils RH adaptés à leur réalité. J\'ai conçu une solution modulaire, pensée pour être déployée rapidement et évoluée progressivement.
 
 **Ce que ça fait :** Automatisation de la paie, gestion des congés, suivi du temps, et notifications en temps réel via WebSocket. Chaque module est indépendant et communicant.
 
@@ -130,7 +139,7 @@ Aujourd'hui, je conçois des applications Full-Stack, j'explore l'IA & le Machin
 
 <br/>
 
-> Une application pour reprendre le contrôle de sa vie académique : emplois du temps, devoirs, sessions d'étude et centralisation des notes.
+> Une application pour reprendre le contrôle de sa vie académique : emplois du temps, devoirs, sessions d\'étude et centralisation des notes.
 
 `Django` `Python` `Bootstrap` `HTML/CSS`
 
@@ -160,24 +169,24 @@ Aujourd'hui, je conçois des applications Full-Stack, j'explore l'IA & le Machin
 ### 🏢 Digitalia Solutions — Ingénieur Stagiaire en Développement Logiciel
 **Juillet – Septembre 2025**
 
-Conception et développement d'un mini ERP RH en architecture microservices. Intégration de l'authentification JWT, des notifications WebSocket en temps réel, et d'une interface React/TailwindCSS. Collaboration en équipe agile avec revues de code et déploiement Docker.
+Conception et développement d\'un mini ERP RH en architecture microservices. Intégration de l\'authentification JWT, des notifications WebSocket en temps réel, et d\'une interface React/TailwindCSS. Collaboration en équipe agile avec revues de code et déploiement Docker.
 
 ---
 
 ### 🏢 Saphir Systems — Stagiaire en IA & Data Science
 **Juillet – Septembre 2024**
 
-Construction d'un système de détection de fraude bancaire par Machine Learning (régression logistique, AUC = 0.97). Traitement de données déséquilibrées, exposition du modèle via API REST Django, et visualisation des résultats dans un tableau de bord interactif.
+Construction d\'un système de détection de fraude bancaire par Machine Learning (régression logistique, AUC = 0.97). Traitement de données déséquilibrées, exposition du modèle via API REST Django, et visualisation des résultats dans un tableau de bord interactif.
 
 ---
 
 ## 🎓 Formation
 
-**EMSI – École Marocaine des Sciences d'Ingénieur** *(2023 – Présent)*
+**EMSI – École Marocaine des Sciences d\'Ingénieur** *(2023 – Présent)*
 Cycle Ingénieur · Informatique & Réseaux
 *Full-Stack · Systèmes Distribués · IA · Cybersécurité*
 
-**Faculté des Sciences Ben M'sik – Université Hassan II** *(2019 – 2023)*
+**Faculté des Sciences Ben M\'sik – Université Hassan II** *(2019 – 2023)*
 Licence en Sciences de la Matière Physique (option Électronique)
 
 ---
@@ -204,11 +213,19 @@ Licence en Sciences de la Matière Physique (option Électronique)
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smailstarallah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=ffffff&rank_icon=github)
+<!-- DARK MODE STATS -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smailstarallah&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=a78bfa&text_color=ffffff&rank_icon=github#gh-dark-mode-only)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smailstarallah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smailstarallah&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&text_color=ffffff&langs_count=8#gh-dark-mode-only)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=smailstarallah&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=a78bfa&currStreakLabel=00d4ff)
+![GitHub Streak](https://streak-stats.demolab.com?user=smailstarallah&theme=tokyonight&hide_border=true&background=0d1117&ring=00d4ff&fire=a78bfa&currStreakLabel=00d4ff#gh-dark-mode-only)
+
+<!-- LIGHT MODE STATS -->
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smailstarallah&show_icons=true&theme=default&hide_border=true&title_color=1e3a8a&icon_color=6d28d9&text_color=1a1a2e&rank_icon=github#gh-light-mode-only)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=smailstarallah&layout=compact&theme=default&hide_border=true&title_color=1e3a8a&text_color=1a1a2e&langs_count=8#gh-light-mode-only)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=smailstarallah&theme=default&hide_border=true&background=ffffff&ring=1e3a8a&fire=6d28d9&currStreakLabel=1e3a8a#gh-light-mode-only)
 
 </div>
 
@@ -218,13 +235,13 @@ Licence en Sciences de la Matière Physique (option Électronique)
 
 <div align="center">
 
-Je suis toujours ouvert à discuter d'un projet, d'une opportunité, ou simplement d'une idée intéressante.
+Je suis toujours ouvert à discuter d\'un projet, d\'une opportunité, ou simplement d\'une idée intéressante.
 
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-ismailstarallah.dev-00d4ff?style=for-the-badge)](https://ismailstarallah.dev)
 [![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Ismail%20Starallah-0077B5?style=for-the-badge)](https://www.linkedin.com/in/ismail-starallah)
-[![GitHub](https://img.shields.io/badge/💻%20GitHub-smailstarallah-181717?style=for-the-badge)](https://github.com/smailstarallah)
+[![GitHub](https://img.shields.io/badge/💻%20GitHub-smailstarallah-404040?style=for-the-badge)](https://github.com/smailstarallah)
 [![Email](https://img.shields.io/badge/📧%20Email-ismailstarallah0@gmail.com-D14836?style=for-the-badge)](mailto:ismailstarallah0@gmail.com)
 
 <br/>
@@ -233,6 +250,11 @@ Je suis toujours ouvert à discuter d'un projet, d'une opportunité, ou simpleme
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=Chaque%20ligne%20de%20code%20est%20une%20intention.&fontSize=16&fontColor=a78bfa&fontAlignY=65" width="100%" />
+<!-- DARK MODE FOOTER -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=Chaque%20ligne%20de%20code%20est%20une%20intention.&fontSize=16&fontColor=a78bfa&fontAlignY=65" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:ddd6fe,100:ede9fe&height=120&section=footer&text=Chaque%20ligne%20de%20code%20est%20une%20intention.&fontSize=16&fontColor=6d28d9&fontAlignY=65" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=Chaque%20ligne%20de%20code%20est%20une%20intention.&fontSize=16&fontColor=a78bfa&fontAlignY=65" width="100%" />
+</picture>
 
 </div>

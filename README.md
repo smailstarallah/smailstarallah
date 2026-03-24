@@ -1,15 +1,15 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ismail%20Starallah&fontSize=52&fontColor=00d4ff&fontAlignY=40&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20Problem%20Solver&descColor=a78bfa&descAlignY=58&animation=fadeIn" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:ddd6fe,100:ede9fe&height=220&section=header&text=Ismail%20Starallah&fontSize=52&fontColor=1e3a8a&fontAlignY=40&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20Problem%20Solver&descColor=6d28d9&descAlignY=58&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ismail%20Starallah&fontSize=52&fontColor=00d4ff&fontAlignY=40&desc=Full-Stack%20Engineer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20Problem%20Solver&descColor=a78bfa&descAlignY=58&animation=fadeIn" width="100%" alt="Header" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ismail%20Starallah&fontSize=52&fontColor=00d4ff&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descColor=a78bfa&descAlignY=58&animation=fadeIn" />
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:ddd6fe,100:ede9fe&height=220&section=header&text=Ismail%20Starallah&fontSize=52&fontColor=1e3a8a&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descColor=6d28d9&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ismail%20Starallah&fontSize=52&fontColor=00d4ff&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descColor=a78bfa&descAlignY=58&animation=fadeIn" width="100%" alt="Header" />
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Ing%C3%A9nieur+Full-Stack+%7C+Spring+Boot+%C2%B7+React+%C2%B7+Node.js;Curieux+de+l%27IA%2C+des+microservices+et+de+l%27impact+r%C3%A9el;Casablanca%2C+Maroc+%F0%9F%87%B2%F0%9F%87%A6+%E2%80%94+Open+to+opportunities" />
-  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1e3a8a&center=true&vCenter=true&width=650&lines=Ing%C3%A9nieur+Full-Stack+%7C+Spring+Boot+%C2%B7+React+%C2%B7+Node.js;Curieux+de+l%27IA%2C+des+microservices+et+de+l%27impact+r%C3%A9el;Casablanca%2C+Maroc+%F0%9F%87%B2%F0%9F%87%A6+%E2%80%94+Open+to+opportunities" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Ing%C3%A9nieur+Full-Stack+%7C+Spring+Boot+%C2%B7+React+%C2%B7+Node.js;Curieux+de+l%27IA%2C+des+microservices+et+de+l%27impact+r%C3%A9el;Casablanca%2C+Maroc+%F0%9F%87%B2%F0%9F%87%A6+%E2%80%94+Open+to+opportunities" alt="Typing SVG" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Ingenieur+Full-Stack+%7C+Spring+Boot+-+React+-+Node.js;Curieux+de+l%27IA%2C+des+microservices+et+de+l%27impact+reel;Casablanca%2C+Maroc+--+Open+to+opportunities" />
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1e3a8a&center=true&vCenter=true&width=650&lines=Ingenieur+Full-Stack+%7C+Spring+Boot+-+React+-+Node.js;Curieux+de+l%27IA%2C+des+microservices+et+de+l%27impact+reel;Casablanca%2C+Maroc+--+Open+to+opportunities" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Ingenieur+Full-Stack+%7C+Spring+Boot+-+React+-+Node.js;Curieux+de+l%27IA%2C+des+microservices+et+de+l%27impact+reel;Casablanca%2C+Maroc+--+Open+to+opportunities" alt="Typing SVG" />
 </picture>
 
 <br/>
@@ -83,7 +83,7 @@ Aujourd'hui, je conçois des applications Full-Stack, j'explore l'IA & le Machin
 ## 🚀 Projets Phares
 
 <details>
-<summary><b>🏢 Mini ERP RH pour PME Marocaines</b> — <i>Architecture Microservices · Full-Stack SaaS</i></summary>
+<summary><b>🏢 Mini ERP RH pour PME Marocaines</b> — <i>Architecture Microservices - Full-Stack SaaS</i></summary>
 
 <br/>
 
@@ -100,7 +100,7 @@ Aujourd'hui, je conçois des applications Full-Stack, j'explore l'IA & le Machin
 ---
 
 <details>
-<summary><b>🔐 Détection de Fraude Bancaire par IA</b> — <i>Machine Learning · AUC = 0.97</i></summary>
+<summary><b>🔐 Détection de Fraude Bancaire par IA</b> — <i>Machine Learning - AUC = 0.97</i></summary>
 
 <br/>
 
@@ -117,7 +117,7 @@ Aujourd'hui, je conçois des applications Full-Stack, j'explore l'IA & le Machin
 ---
 
 <details>
-<summary><b>💚 Plateforme de Gestion des Actions de Charité</b> — <i>JEE · Full-Stack</i></summary>
+<summary><b>💚 Plateforme de Gestion des Actions de Charité</b> — <i>JEE - Full-Stack</i></summary>
 
 <br/>
 
@@ -134,7 +134,7 @@ Aujourd'hui, je conçois des applications Full-Stack, j'explore l'IA & le Machin
 ---
 
 <details>
-<summary><b>📚 School Planner — Gestionnaire Académique</b> — <i>Django · Full-Stack</i></summary>
+<summary><b>📚 School Planner - Gestionnaire Académique</b> — <i>Django - Full-Stack</i></summary>
 
 <br/>
 
@@ -149,7 +149,7 @@ Aujourd'hui, je conçois des applications Full-Stack, j'explore l'IA & le Machin
 ---
 
 <details>
-<summary><b>🖥️ Générateur de Rapports Système Unix/Bash</b> — <i>Shell Scripting · Administration Système</i></summary>
+<summary><b>🖥️ Générateur de Rapports Système Unix/Bash</b> — <i>Shell Scripting - Administration Système</i></summary>
 
 <br/>
 
@@ -182,8 +182,8 @@ Construction d'un système de détection de fraude bancaire par Machine Learning
 ## 🎓 Formation
 
 **EMSI – École Marocaine des Sciences d'Ingénieur** *(2023 – Présent)*
-Cycle Ingénieur · Informatique & Réseaux
-*Full-Stack · Systèmes Distribués · IA · Cybersécurité*
+Cycle Ingénieur - Informatique & Réseaux
+*Full-Stack - Systèmes Distribués - IA - Cybersécurité*
 
 **Faculté des Sciences Ben M'sik – Université Hassan II** *(2019 – 2023)*
 Licence en Sciences de la Matière Physique (option Électronique)
@@ -242,14 +242,14 @@ Je suis toujours ouvert à discuter d'un projet, d'une opportunité, ou simpleme
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/🌐%20Portfolio-ismailstarallah.dev-00d4ff?style=for-the-badge)](https://ismailstarallah.dev)
-[![LinkedIn](https://img.shields.io/badge/💼%20LinkedIn-Ismail%20Starallah-0077B5?style=for-the-badge)](https://www.linkedin.com/in/ismail-starallah)
-[![GitHub](https://img.shields.io/badge/💻%20GitHub-smailstarallah-181717?style=for-the-badge)](https://github.com/smailstarallah)
-[![Email](https://img.shields.io/badge/📧%20Email-ismailstarallah0@gmail.com-D14836?style=for-the-badge)](mailto:ismailstarallah0@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ismailstarallah.dev-00d4ff?style=for-the-badge&logo=firefox&logoColor=white)](https://ismailstarallah.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ismail%20Starallah-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ismail-starallah)
+[![GitHub](https://img.shields.io/badge/GitHub-smailstarallah-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/smailstarallah)
+[![Email](https://img.shields.io/badge/Email-ismailstarallah0@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ismailstarallah0@gmail.com)
 
 <br/>
 
-*Réponse sous 24–48h · Disponible pour opportunités de stage et CDI*
+*Réponse sous 24–48h - Disponible pour opportunités de stage et CDI*
 
 <br/>
 

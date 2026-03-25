@@ -252,14 +252,11 @@ Je suis toujours ouvert à discuter d'un projet, d'une opportunité, ou simpleme
 
 <br/>
 
-*Réponse sous 24–48h - Disponible pour opportunités de stage et CDI*
+*Réponse sous 24–48h — Disponible pour opportunités de stage et CDI*
 
 <br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=Chaque%20ligne%20de%20code%20est%20une%20intention.&fontSize=16&fontColor=a78bfa&fontAlignY=65" />
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:ddd6fe,100:ede9fe&height=120&section=footer&text=Chaque%20ligne%20de%20code%20est%20une%20intention.&fontSize=16&fontColor=6d28d9&fontAlignY=65" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=Chaque%20ligne%20de%20code%20est%20une%20intention.&fontSize=16&fontColor=a78bfa&fontAlignY=65" width="100%" alt="Footer" />
-</picture>
+[![footer-dark](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=120&section=footer&text=Chaque%20ligne%20de%20code%20est%20une%20intention.&fontSize=16&fontColor=a78bfa&fontAlignY=65&width=900)](https://github.com/smailstarallah#gh-dark-mode-only)
+[![footer-light](https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:ddd6fe,100:ede9fe&height=120&section=footer&text=Chaque%20ligne%20de%20code%20est%20une%20intention.&fontSize=16&fontColor=6d28d9&fontAlignY=65&width=900)](https://github.com/smailstarallah#gh-light-mode-only)
 
 </div>

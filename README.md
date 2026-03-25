@@ -1,14 +1,19 @@
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ismail%20Starallah&fontSize=52&fontColor=00d4ff&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descColor=a78bfa&descAlignY=58&animation=fadeIn" />
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:ddd6fe,100:ede9fe&height=220&section=header&text=Ismail%20Starallah&fontSize=52&fontColor=1e3a8a&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descColor=6d28d9&descAlignY=58&animation=fadeIn" width="100%" alt="Header" />
-</picture>
+<!-- ╔══════════════════════════════════════════╗ -->
+<!--   HERO SECTION — marche avec URLs externes  -->
+<!-- ╚══════════════════════════════════════════╝ -->
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Ingenieur+Full-Stack+%7C+Spring+Boot+-+React+-+Node.js;Curieux+de+l%27IA%2C+des+microservices+et+de+l%27impact+reel;Casablanca%2C+Maroc+--+Open+to+opportunities" />
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1e3a8a&center=true&vCenter=true&width=650&lines=Ingenieur+Full-Stack+%7C+Spring+Boot+-+React+-+Node.js;Curieux+de+l%27IA%2C+des+microservices+et+de+l%27impact+reel;Casablanca%2C+Maroc+--+Open+to+opportunities" alt="Typing SVG" />
-</picture>
+<!-- DARK MODE ONLY (lien contient le fragment) -->
+[![header-dark](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Ismail%20Starallah&fontSize=52&fontColor=00d4ff&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descColor=a78bfa&descAlignY=58&animation=fadeIn&width=900)](https://github.com/smailstarallah#gh-dark-mode-only)
+
+<!-- LIGHT MODE ONLY -->
+[![header-light](https://capsule-render.vercel.app/api?type=waving&color=0:e0f2fe,50:ddd6fe,100:ede9fe&height=220&section=header&text=Ismail%20Starallah&fontSize=52&fontColor=1e3a8a&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20AI%20Enthusiast%20%7C%20Problem%20Solver&descColor=6d28d9&descAlignY=58&animation=fadeIn&width=900)](https://github.com/smailstarallah#gh-light-mode-only)
+
+<!-- TYPING SVG -->
+[![typing-dark](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Ingenieur+Full-Stack+%7C+Spring+Boot+-+React+-+Node.js;Curieux+de+l%27IA%2C+des+microservices+et+de+l%27impact+reel;Casablanca%2C+Maroc+--+Open+to+opportunities)](https://github.com/smailstarallah#gh-dark-mode-only)
+
+[![typing-light](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=1e3a8a&center=true&vCenter=true&width=650&lines=Ingenieur+Full-Stack+%7C+Spring+Boot+-+React+-+Node.js;Curieux+de+l%27IA%2C+des+microservices+et+de+l%27impact+reel;Casablanca%2C+Maroc+--+Open+to+opportunities)](https://github.com/smailstarallah#gh-light-mode-only)
 
 <br/>
 
